@@ -141,12 +141,6 @@ It creates
 
 ---
 
-## Screenshots
-
-Screenshots of the application and Jenkins pipeline are available inside the `screenshots` folder.
-
----
-
 ## What I learned
 
 This project helped me practice:
